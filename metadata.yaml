@@ -1,0 +1,61 @@
+_repo: Old-Songs_67167
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Wither, George
+    aliases:
+    - Wyther, George
+    - Withers, George
+    birthdate: 1588
+    deathdate: 1667
+    gutenberg_agent_id: '25027'
+    url: http://www.gutenberg.org/2009/agents/25027
+    wikipedia: http://en.wikipedia.org/wiki/George_Wither
+  - agent_name: Spenser, Edmund
+    aliases:
+    - Spenser, Edmond
+    - Spencer, Edmund
+    - Immerito
+    birthdate: 1551
+    deathdate: 1599
+    gutenberg_agent_id: '2264'
+    url: http://www.gutenberg.org/2009/agents/2264
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Spenser
+  illustrators:
+  - agent_name: Parsons, Alfred
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '51796'
+    url: http://www.gutenberg.org/2009/agents/51796
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Parsons_(artist)
+  - agent_name: Abbey, Edwin Austin
+    alias: Abbey, E. A. (Edwin Austin)
+    birthdate: 1852
+    deathdate: 1911
+    gutenberg_agent_id: '51815'
+    url: http://www.gutenberg.org/2009/agents/51815
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Austin_Abbey
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-01-15'
+identifiers:
+  gutenberg: '67167'
+language: en
+pgterms:marc905: 20200518053051parsons
+pgterms:marc906: '1889'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United States :Harper & Brothers,1889.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Old Songs
+url: http://www.gutenberg.org/ebooks/67167
