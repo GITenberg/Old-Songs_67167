@@ -35,6 +35,9 @@ contributor:
     gutenberg_agent_id: '51815'
     url: http://www.gutenberg.org/2009/agents/51815
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Austin_Abbey
+covers:
+- cover_type: archival
+  image_path: 67167-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -42,6 +45,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67167#Old-Songs
 gutenberg_issued: '2022-01-15'
 identifiers:
   gutenberg: '67167'
